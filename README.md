@@ -18,4 +18,4 @@
 * You can install Love Theme under Themes and Layout in your forum administration.
 
 ## Demo Online
-You can find a demo for this theme on SMF Tricks: [Demo](https://demo.smftricks.com/index.php?theme=26)
+You can find a demo for this theme on SMF Tricks: [Demo](https://demo.smftricks.com/index.php?theme=21)
